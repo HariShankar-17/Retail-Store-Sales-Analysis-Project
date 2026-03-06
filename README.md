@@ -1,4 +1,3 @@
-cat << 'EOF' > README.md
 # 🛒 Retail Store Sales Analysis
 
 ## 📌 Project Overview

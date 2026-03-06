@@ -184,3 +184,19 @@ High-selling products are not always the highest revenue-generating products.
 ---
 
 # 📂 Project Structure
+```
+Retail-Sales-Analysis
+│
+├── images
+│ ├── city_performance.png
+│ ├── correlation.png
+│ ├── discount_vs_revenue.png
+│ ├── order_revenue_distribution.png
+│ ├── overall_relationship.png
+│ ├── revenue_outliers.png
+│ └── top_selling_product.png
+│
+├── Retail Business Project.ipynb
+├── Retail_Store_Sales_Analysis_Dataset.csv
+└── README.md
+```
